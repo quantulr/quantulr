@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### quantul's github stats
+
+![quantulr's github stats](https://github-readme-stats.vercel.app/api?username=quantulr&show_icons=true&theme=dracula)
+
+### most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantulr)
